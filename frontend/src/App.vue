@@ -22,7 +22,7 @@ export default {
 	components: { Conteudo },
 	methods: mapActions(['setUsuario']),
 	created() {
-		this.setUsuario(null)
+		// this.setUsuario(null)
 	}
 }
 </script>

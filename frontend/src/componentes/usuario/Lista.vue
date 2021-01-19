@@ -49,6 +49,7 @@ export default {
     methods: {
         obterUsuarios() {
             // 
+            console.log(this.$api)
         }
     }
 }
